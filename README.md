@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jamesonwilliams/wildcardtrie.svg?branch=master)](https://travis-ci.org/jamesonwilliams/wildcardtrie)
+
 # wildcardtrie
 A Trie data structure which can be searched using wild characters.
 
